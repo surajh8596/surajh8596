@@ -1,8 +1,8 @@
-<!--<img align="center" width="100%" height="50%" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif"> -->
+<img align="center" width="100%" height="50%" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 <h1 align="center">Hi 👋, I'm Suraj Honkamble</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 
@@ -21,8 +21,6 @@
 - 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **surajh8596@gmail.com**
-
-- ⚡ Fun fact **If you know me then I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
