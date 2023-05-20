@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Honkamble</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="[](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 
@@ -14,18 +14,15 @@
 
 - 🤝 I’m looking for help in **Deep Learning Projects**
 
-- 👨‍💻 Projects are available in Github [https://github.com/surajh8596/surajh8596](https://github.com/surajh8596/surajh8596)
+- 👨‍💻 Projects are available in Github [Github](https://github.com/surajh8596/surajh8596)
 
-- 📊 Data Analysis Dashboard [https://public.tableau.com/app/profile/suraj.honkamble](https://public.tableau.com/app/profile/suraj.honkamble)
+- 📊 Data Analysis Dashboard [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **surajh8596@gmail.com**
 
 - ⚡ Fun fact **If you know me then I am funny**
-
-<body background=
-"https://media.geeksforgeeks.org/wp-content/uploads/rk.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
