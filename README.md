@@ -7,19 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 
 - 🔭 Working at **Innomatics Research Labs as DS Intern**
-
 - 🌱 I’m currently learning **Deep Learning**
-
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
-
 - 🤝 I’m looking for help in **Deep Learning Projects**
-
 - 👨‍💻 Projects are available in Github [Github](https://github.com/surajh8596/surajh8596)
-
 - 📊 Data Analysis Dashboard [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
-
 - 💬 Ask me about **Data Science and Machine Learning**
-
 - 📫 How to reach me **surajh8596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
