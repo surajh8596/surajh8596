@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="50%" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
+<!--<img align="center" width="100%" height="50%" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif"> -->
 <h1 align="center">Hi 👋, I'm Suraj Honkamble</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
