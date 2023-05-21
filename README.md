@@ -1,4 +1,4 @@
-![logo](https://github.com/surajh8596/surajh8596/blob/main/ds.gif)
+![logo](https://github.com/surajh8596/surajh8596/blob/main/ds_banner.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Honkamble</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajh8596&show_icons=true&locale=en&layout=compact" alt="surajh8596" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajh8596&show_icons=true&locale=en" alt="surajh8596" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=surajh8596&show_icons=true&locale=en" alt="surajh8596" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajh8596&" alt="surajh8596" /></p>
