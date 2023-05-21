@@ -3,8 +3,8 @@
 <img align="right" alt="coding" width="350" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
-<h1 align="left">Hi 👋, I'm Suraj Honkamble</h1>
-<h3 align="left">Data Science Enthusiast</h3>
+- <h1 align="left">Hi 👋, I'm Suraj Honkamble</h1>
+- <h3 align="left">Data Science Enthusiast</h3>
 - 🔭 Working at **Innomatics Research Labs as DS Intern**
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
