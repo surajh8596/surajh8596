@@ -1,5 +1,5 @@
 ![logo](https://github.com/surajh8596/surajh8596/blob/main/ds_banner.jpg)
-- <h1 align="left">👋, Hey Data Scientist This Is Suraj Honkamble</h1>
+- <h1 align="left">👋Hey Data Scientist This Is Suraj Honkamble</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
