@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-- 🔭 Searching Jobs in the fied of **Data Science & Analytics**
+- 🔭 Searching Jobs in the field of **Data Science & Analytics**
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
 - 🤝 I’m looking for help in **Deep Learning Projects**
