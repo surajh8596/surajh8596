@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **Natural Language Processing**
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
 - 🤝 I’m looking for help in **NLP Projects**
-- 👨‍💻 Projects are available in Github [Github](https://github.com/surajh8596/surajh8596)
-- 📊 Data Analysis Dashboard [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
+- 👨‍💻 Projects are available on [Github](https://github.com/surajh8596/surajh8596)
+- 📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
 - 💬 Ask me about **Data Science, Machine Learning and NLP**
 - 📫 How to reach me **surajh8596@gmail.com**
 
