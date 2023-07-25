@@ -2,13 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-- 🔭 Searching Jobs in the field of **Data Science & Analytics**
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 Interning in many companies as **Data Science & Analytic Intern**
+- 🌱 I’m currently learning **Natural Language Processing**
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
-- 🤝 I’m looking for help in **Deep Learning Projects**
+- 🤝 I’m looking for help in **NLP Projects**
 - 👨‍💻 Projects are available in Github [Github](https://github.com/surajh8596/surajh8596)
 - 📊 Data Analysis Dashboard [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
-- 💬 Ask me about **Data Science and Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning and NLP**
 - 📫 How to reach me **surajh8596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
