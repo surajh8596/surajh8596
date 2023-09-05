@@ -7,7 +7,7 @@
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
 - 👨‍💻 Projects are available on [Github](https://github.com/surajh8596/surajh8596)
 - 📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
-- 💬 Ask me about **Data Science, Machine Learning and NLP**
+- 💬 Ask me about **Data Science, Data Analysis and Machine Learning**
 - 📫 How to reach me **surajh8596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
