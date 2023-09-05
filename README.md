@@ -1,12 +1,10 @@
 - <h1 align="left">👋Hey Data Scientists This Is Suraj Honkamble</h1>
-<background:red;>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-- 🔭 Interning in many companies as **Data Science & Analytic Intern**
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🔭 **Data Science & Data Analyst**
+- 🌱 Upgrading in the field of **Data Analysis and Data Science**
 - 👯 Graduated from **University Visvesvaraya College of Engineering, Bangalore**
-- 🤝 I’m looking for help in **NLP Projects**
 - 👨‍💻 Projects are available on [Github](https://github.com/surajh8596/surajh8596)
 - 📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)
 - 💬 Ask me about **Data Science, Machine Learning and NLP**
