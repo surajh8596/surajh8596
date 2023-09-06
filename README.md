@@ -1,8 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=blue)
 [![surajh8596's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=green&vCenter=true&lines=Data+Scientist+👩‍🔬;Data+Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
-<h1 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Data+Analyst+📊;AI+Learner🛠️;A+Coder+💻;)](https://git.io/typing-svg)
+<h1 align="center"> Hi there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45"/> I'm Suraj Honkamble
@@ -10,10 +10,9 @@
 
    <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-# 💫 About Me:
+# 👩‍💻 About Me:
 🔭 **Data Science & Data Analyst**<br>🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
 
 
