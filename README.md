@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=orange)
-[![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
+[![surajh8596's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👨‍💻;Up+and+Coming+Data Analyst+📊;AI+Learner🛠️;Coder+💻;)](https://git.io/typing-svg)
 <h1 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
@@ -10,7 +10,6 @@
 
    <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
-<h1 align="left">👋Hey Data People This Is Suraj Honkamble</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
