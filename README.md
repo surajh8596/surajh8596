@@ -42,5 +42,5 @@
 
 <div align="center">
 
-<img height="220" alt="Thanks for visiting me" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="220" alt="Thanks for visiting my profile" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
