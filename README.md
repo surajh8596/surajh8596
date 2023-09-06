@@ -8,7 +8,7 @@
          width="45"/> I'm Suraj Honkamble
 
 
-   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
+   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=red&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
