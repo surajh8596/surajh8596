@@ -39,6 +39,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=surajh8596&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img height="220" alt="Thanks for visiting me" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
