@@ -15,26 +15,39 @@
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 🔭 **Data Science & Data Analyst**<br>🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
-## 🌐 Connect With Me: !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
+## 🌐 Connect With Me: <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajking6958) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajhonkamble) 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 # 💻 Tech Stack:   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surajh8596&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajh8596&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajh8596&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surajh8596&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 ### ✍️ Quote of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=surajh8596&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
