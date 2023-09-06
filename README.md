@@ -12,7 +12,7 @@
 </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-# 👩‍💻 About Me:
+# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 🔭 **Data Science & Data Analyst**<br>🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
 
 
@@ -29,14 +29,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surajh8596&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=surajh8596&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=surajh8596&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
