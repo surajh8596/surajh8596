@@ -50,9 +50,5 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <div align="center">
-
 <img height="220" alt="Thanks for visiting my profile" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
