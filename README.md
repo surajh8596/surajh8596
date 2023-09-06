@@ -8,7 +8,7 @@
          width="45"/> I'm Suraj Honkamble
 
 
-   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=red&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
+   <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=700&height=80&lines=Welcome+To+MY+Profile"/>
 </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
@@ -16,7 +16,7 @@
 🔭 **Data Science & Data Analyst**<br>🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me: !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajking6958) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajhonkamble) 
 
 # 💻 Tech Stack:
