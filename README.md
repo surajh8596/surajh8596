@@ -12,9 +12,8 @@
 </p>
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
-🔭 **Data Science & Data Analyst**<br>
-<img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
-🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
+<img align="right" alt="coding" width="250" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+🔭 **Data Science & Data Analyst**<br>🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
