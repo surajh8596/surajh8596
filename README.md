@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=orange)
+[![Tanwar-12's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 <h1 align="left">👋Hey Data People This Is Suraj Honkamble</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajh8596&label=Profile%20views&color=0e75b6&style=flat" alt="surajh8596" /> </p>
 <img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
