@@ -1,16 +1,16 @@
-![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=orange)
 [![surajh8596's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Data+Analyst+📊;AI+Learner🛠️;A+Coder+💻;)](https://git.io/typing-svg)
 <h1 align="center"> Hi there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45"/> I'm Suraj Honkamble
+         width="45"/> I am Suraj Honkamble
 
 
    <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=700&height=80&lines=Welcome+To+MY+Profile"/>
 </p>
-<img align="right" alt="coding" width="300" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<img align="right" alt="coding" width="500" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 🔭 **Data Science & Data Analyst**<br>🌱 Upgrading in the field of **Data Analysis and Data Science**<br>🗺 Graduated from **University Visvesvaraya College of Engineering, Bangalore**<br>👨‍💻 Projects are available on [GitHub](https://github.com/surajh8596/surajh8596)<br>📊 Data Analysis Dashboard on [Tableau](https://public.tableau.com/app/profile/suraj.honkamble)<br>💬 Ask me about **Data Science, Data Analysis and Machine Learning**<br>📫 How to reach me **surajh8596@gmail.com**
@@ -49,7 +49,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=surajh8596&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
