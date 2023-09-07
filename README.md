@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=orange)
 [![surajh8596's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Data+Analyst+📊;AI+Learner🛠️;A+Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist👨‍🏫+;Data+Analyst+📊;AI+Learner🛠️;A+Coder+💻;)](https://git.io/typing-svg)
 <h1 align="center"> Hi there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -25,15 +25,12 @@
 # 💻 Tech Stack:   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surajh8596&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajh8596&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajh8596&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surajh8596&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
