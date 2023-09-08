@@ -18,8 +18,8 @@
 🗺 Graduated from <b>University Visvesvaraya College of Engineering, Bangalore</b><br>
 👨‍💻 Projects are available on <b><a href="https://github.com/surajh8596/surajh8596/">GitHub</a></b></b><br>
 📊 Data& Business Analysis Dashboard on <b></b><a href="https://public.tableau.com/app/profile/suraj.honkamble/">Tableau</a></b><br>
-💬 Ask me about <b>Data Science, Data Analysis and Machine Learning</b<br>
-⚜ If you know me then you know me.<br>
+💬 Ask me about <b>Data Science, Data Analysis and Machine Learning</b><br>
+⚜  If you know me then you know me.<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
