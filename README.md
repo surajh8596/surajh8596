@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=orange)
+![Profile views](https://komarev.com/ghpvc/?username=surajh8596&style=for-the-badge&color=blue)
 [![surajh8596's stars](https://custom-icon-badges.demolab.com/github/stars/surajh8596?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist👨‍🏫+;Data+Analyst+📊;AI+Learner🛠️;A+Coder+💻;)](https://git.io/typing-svg)
