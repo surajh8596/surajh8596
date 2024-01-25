@@ -17,7 +17,8 @@
 🌱 Upgrading in the field of <b>Data Analysis and Data Science</b><br>
 🗺 Graduated from <b>University Visvesvaraya College of Engineering, Bangalore</b><br>
 👨‍💻 Projects are available on <b><a href="https://github.com/surajh8596/surajh8596/">GitHub</a></b></b><br>
-📊 Data& Business Analysis Dashboard on <b><a href="https://public.tableau.com/app/profile/suraj.honkamble/">Tableau</a></b><br>
+📊 Tableau Dashboards <b><a href="https://public.tableau.com/app/profile/suraj.honkamble/">Tableau</a></b><br>
+📊 Power BI Dashboards <b><a href="https://www.novypro.com/profile_projects/surajhonkamble">Power BI</a></b><br>
 💬 Ask me about <b>Data Science, Data Analysis and Machine Learning</b><br>
 👨‍⚖️ Portfolio Profile <b><a href="https://linktr.ee/surajhonkamble">Data Analyst Portfolio</a></b><br>
 ⚜  If you know me then you know me.<br>
@@ -25,7 +26,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 ## 🌐 Connect With Me: <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajking6958) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajhonkamble) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suraj_08051996) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajhonkamble) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
